@@ -1,1 +1,0 @@
-# UT-junit-mock
